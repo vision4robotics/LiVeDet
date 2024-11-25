@@ -11,6 +11,7 @@ This figure shows the workflow of our LiVeDet.
 ## Demonstration running instructions
 ### 1. Requirements
 This code has been tested on Jeston Orin NX 16GB with Jetpack 5.1.1.
+
 1.Ubuntu 20.04
 
 2.Python 3.8.10
