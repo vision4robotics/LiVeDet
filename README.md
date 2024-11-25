@@ -12,9 +12,13 @@ This figure shows the workflow of our LiVeDet.
 ### 1. Requirements
 This code has been tested on Jeston Orin NX 16GB with Jetpack 5.1.1.
 1.Ubuntu 20.04
+
 2.Python 3.8.10
+
 3.CUDA 11.4
+
 4.Pytorch 1.11.0 
+
 5.torchvision 0.9.1
 
 Please install related libraries before running this code: 
